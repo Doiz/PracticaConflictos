@@ -10,12 +10,13 @@ package main;
  * @author Sammy Guergachi <sguergachi at gmail.com>
  */
 public class MainJava {
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    public static void contestacion(){
+        System.out.println("Hola!");
+    }
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo!");
+        contestacion();
     }
     
 }
