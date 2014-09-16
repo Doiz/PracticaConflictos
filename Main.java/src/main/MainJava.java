@@ -1,15 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package main;
 
-/**
- *
- * @author Sammy Guergachi <sguergachi at gmail.com>
- */
 public class MainJava {
+    
+    public static void contestacion(){
+        System.out.println("Hola!");
+    }
 
     public static void SuperSuma(){
         System.out.println((2+2));
@@ -18,9 +14,14 @@ public class MainJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         // TODO code application logic here
         
         SuperSuma();
+=======
+        System.out.println("Hola mundo!");
+        contestacion();
+>>>>>>> origin/master
     }
     
 }
