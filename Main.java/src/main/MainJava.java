@@ -17,11 +17,7 @@ public class MainJava {
 
          SuperSuma();
 
-        System.out.println("Hola mundo, Que tal!, Rafa es un pejillero");
-        contestacion();
+        System.out.println("Hola mundo, Que tal!, Rafa es un Mago lvl 1");
 
-       
-
-        despedida();
     }
 }
