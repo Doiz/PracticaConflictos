@@ -2,18 +2,31 @@
 package main;
 
 public class MainJava {
+    
+    public static void contestacion(){
+        System.out.println("Hola!");
+    }
 
-    /**
-     * @param args the command line arguments
-     */
+    public static void SuperSuma(){
+        System.out.println((2+2));
+    }
     public static void despedida(){
         System.out.println("Adios!");
     }
-    
     public static void main(String[] args) {
-        // TODO code application logic here
+
+         SuperSuma();
+
+        System.out.println("Hola mundo!");
+        contestacion();
+
+       
+
         despedida();
-        
     }
-    
 }
+
+       
+ 
+    
+
